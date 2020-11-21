@@ -60,44 +60,41 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/bricks_bg.jpg) 
+  background: url(images/background.svg)  
       center center fixed no-repeat;
     background-size: cover;
 	
 }
 
 .center {
-    width: 800px;
+    width: 80%; /*to make div responsive*/
+    max-width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+    border-radius: 30px 150px;
+ 	background: rgba(102, 153, 51, .60); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 4px dashed white;
+
 }
 
    
 #logo {
-    margin-bottom: 16px;
-	border: 3px dashed red;
-	text-align: center;
+    margin-bottom: 50px;
+    margin-top: 40px;
+	border: 4px dashed white;
+    border-radius: 30px;
+	text-align: center; 
 }
 
 h1 {
-	font-family: courier, sans-serif;
-	font-size: 2em;
+	font-family: haboro-contrast-normal, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3em;
     margin: 0px auto 10px auto;
     color: #fff;
 }
 
-h2 {
-	font-family: ysans-std-mondrian, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.4;
-    color: #fff;
-    padding: 0px 0px;
-    margin: 0px auto 25px auto;
-}
 
 p {
 	font-family: garamond, serif;
@@ -110,31 +107,45 @@ p {
 nav{
     font-family: fantasy;
     font-size: 1.2em;
-    width: 400px;
-    margin: 0 auto;
-    border: dashed turquoise;
-    border-width: 3px 0;
-    text-align: center;
-    margin-top: 2em;
-    }
-        
-nav li{
-    display: inline;
-     }
-nav a {
-    display: inline-block;
-    padding: 10px;
+    width: 480px;
+    margin: 0 center;
+    text-align: center; 
     }
 
-a{
-    color:#44579;
-    text-decoration: none;
-    font-weight: bold
-    }
+{margin: 0; padding: 0;}
 
-a:hover{
-    color: black;
-    background: pink;
+nav {
+  margin: 50px;
+}
+
+ul {
+  overflow: auto;
+  list-style-type: none;
+}
+
+li {
+  height: 25px;
+  float: left;
+  margin-right: 0px;
+  border-right: 1px solid #FF9F00;
+  padding: 0 20px;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  text-decoration: none;
+  color: #fff;
+  font: 25px/1 Helvetica, Verdana, sans-serif;
+  text-transform: uppercase;
+  -webkit-transition: all 0 ease;
+}
+
+li a:hover {
+  color: #12A6A8;
+}
     
 }
 

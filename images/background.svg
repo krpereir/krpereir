@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF6600;}
+	.st1{fill:none;stroke:#F7931E;stroke-width:9;stroke-miterlimit:10;}
+	.st2{fill:#FF9933;}
+	.st3{fill:none;stroke:#99CC33;stroke-width:9;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="0.5" y="0.5" class="st0" width="1919" height="1079"/>
+	<path d="M1919,1v1078H1V1H1919 M1920,0H0v1080h1920V0L1920,0z"/>
+</g>
+<g>
+	<line class="st1" x1="0.5" y1="226.5" x2="360.5" y2="-0.5"/>
+	<line class="st2" x1="0.5" y1="226.5" x2="360.5" y2="-0.5"/>
+</g>
+<line class="st1" x1="0.5" y1="361.5" x2="573.5" y2="-0.5"/>
+<line class="st1" x1="0.5" y1="574.5" x2="953.5" y2="-26.5"/>
+<line class="st1" x1="0.5" y1="796.5" x2="1281.5" y2="-11.5"/>
+<line class="st1" x1="0.5" y1="928.5" x2="1478.5" y2="-3.5"/>
+<line class="st1" x1="0.5" y1="1055.5" x2="1682.5" y2="-4.5"/>
+<line class="st1" x1="55.5" y1="1089.5" x2="1838.5" y2="-25.5"/>
+<line class="st1" x1="198.5" y1="1088.5" x2="1954.5" y2="-19.5"/>
+<line class="st1" x1="497.5" y1="1079.5" x2="1946.5" y2="165.5"/>
+<line class="st1" x1="811.5" y1="1079.5" x2="1938.5" y2="369.5"/>
+<line class="st1" x1="1066.5" y1="1079.5" x2="1952.5" y2="520.5"/>
+<line class="st1" x1="1235.5" y1="1079.5" x2="1946.5" y2="631.5"/>
+<line class="st1" x1="1415.5" y1="1079.5" x2="1938.5" y2="749.5"/>
+<line class="st1" x1="1709.5" y1="1079.5" x2="2069.5" y2="852.5"/>
+<g>
+	<line class="st3" x1="-67.21" y1="225.62" x2="314.5" y2="-15.5"/>
+	<line class="st2" x1="-67.21" y1="225.62" x2="314.5" y2="-15.5"/>
+</g>
+<line class="st3" x1="-67.21" y1="360.62" x2="534.5" y2="-19.5"/>
+<line class="st3" x1="-67.21" y1="573.62" x2="885.79" y2="-27.38"/>
+<line class="st3" x1="-67.21" y1="795.62" x2="1213.79" y2="-12.38"/>
+<line class="st3" x1="-67.21" y1="927.62" x2="1410.79" y2="-4.38"/>
+<line class="st3" x1="-67.21" y1="1054.62" x2="1614.79" y2="-5.38"/>
+<line class="st3" x1="3.79" y1="1078.62" x2="1770.79" y2="-26.38"/>
+<line class="st3" x1="123.5" y1="1091.5" x2="1886.79" y2="-20.38"/>
+<line class="st3" x1="413.5" y1="1088.5" x2="1951.5" y2="118.5"/>
+<line class="st3" x1="729.5" y1="1087.5" x2="1936.5" y2="327.5"/>
+<line class="st3" x1="979.5" y1="1090.5" x2="1932.5" y2="489.5"/>
+<line class="st3" x1="1150.5" y1="1089.5" x2="1926.5" y2="600.5"/>
+<line class="st3" x1="1326.5" y1="1092.5" x2="1932.5" y2="709.5"/>
+<line class="st3" x1="1621.5" y1="1091.5" x2="2001.79" y2="851.62"/>
+</svg>
