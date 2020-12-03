@@ -69,9 +69,8 @@ html, body {
 .center {
     width: 80%; /*to make div responsive*/
     max-width: 800px;
-	padding: 2%;
+	padding: 5%;
     margin: 100px auto;
-    border-radius: 30px 150px;
  	background: rgba(240, 153, 51, .60); /*this uses opacity of 80% for the background color*/
 	text-align: center;
 
